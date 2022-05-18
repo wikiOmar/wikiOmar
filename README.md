@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on UnoSquare
+- 🔭 I’m currently working at UnoSquare
 - 🌱 I’m learning about Apache Kafka, oauth2 and JWT
 - 📫 Reach me here: https://www.facebook.com/luis.lwik
+- ![alt text](http://url/to/img.png)
 
 
